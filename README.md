@@ -1,1 +1,1 @@
-# Edu_Agentic_RAG-main
+# Edu_Agentic_RAG
